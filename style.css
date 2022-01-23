@@ -19,3 +19,9 @@ body{
     right:0;
     background:rgba(0,0,0,0.6);
 }
+.card{
+    max-width: 292px;
+}
+.card .h2, .h5{
+    font-family: 'Roboto', sans-serif;
+}
