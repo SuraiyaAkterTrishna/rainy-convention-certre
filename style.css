@@ -1,0 +1,11 @@
+/* google fonts add */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Manrope&family=Poppins:wght@300;400;500;600;700&family=Roboto:wght@700&display=swap');
+
+/* font-family: 'Inter', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
